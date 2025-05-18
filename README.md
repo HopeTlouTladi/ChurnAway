@@ -1,5 +1,5 @@
 🔍 What This Project Does
-ChurnSense is a project that helps you find out why customers leave and which customers might leave soon.
+ChurnAway is a project that helps you find out why customers leave and which customers might leave soon.
 
 It uses data and machine learning to:
 
